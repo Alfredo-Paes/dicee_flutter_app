@@ -1,16 +1,10 @@
-# dicee_flutter_app
+# Dicee Flutter App
 
-A new Flutter project.
+## Description:
+This application is intended to demonstrate a way of manipulating state in Flutter.
 
-## Getting Started
+## Images:
+<img src="images/dice.png" height="310" width="180">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Autor:
+- Alfredo Paes da Luz.
